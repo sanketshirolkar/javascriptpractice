@@ -12,5 +12,4 @@ console.log(5 - "1"); //4
 console.log(5 + "1"); // 51
 
 console.log(null == undefined); //true
-
 console.log(null == 0); //false
